@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'nunitosans-bold';
+    src: url('../fonts/nunitosans-bold/nunitosans-bold.eot');
+    src: url('../fonts/nunitosans-bold/nunitosans-bold.woff2') format('woff2'),
+    url('../fonts/nunitosans-bold/nunitosans-bold.woff') format('woff'),
+    url('../fonts/nunitosans-bold/nunitosans-bold.ttf') format('truetype'),
+    url('../fonts/nunitosans-bold/nunitosans-bold.svg#Roboto-Bold') format('svg'),
+    url('../fonts/nunitosans-bold/nunitosans-bold.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'nunitosans-extrabold';
+    src: url('../fonts/nunitosans-extrabold/nunitosans-extrabold.eot');
+    src: url('../fonts/nunitosans-extrabold/nunitosans-extrabold.woff2') format('woff2'),
+    url('../fonts/nunitosans-extrabold/nunitosans-extrabold.woff') format('woff'),
+    url('../fonts/nunitosans-extrabold/nunitosans-extrabold.ttf') format('truetype'),
+    url('../fonts/nunitosans-extrabold/nunitosans-extrabold.svg#Roboto-Bold') format('svg'),
+    url('../fonts/nunitosans-extrabold/nunitosans-extrabold.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'nunitosans-light';
+    src: url('../fonts/nunitosans-light/nunitosans-light.eot');
+    src: url('../fonts/nunitosans-light/nunitosans-light.woff2') format('woff2'),
+    url('../fonts/nunitosans-light/nunitosans-light.woff') format('woff'),
+    url('../fonts/nunitosans-light/nunitosans-light.ttf') format('truetype'),
+    url('../fonts/nunitosans-light/nunitosans-light.svg#Roboto-Bold') format('svg'),
+    url('../fonts/nunitosans-light/nunitosans-light.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'nunitosans-regular';
+    src: url('../fonts/nunitosans-regular/nunitosans-regular.eot');
+    src: url('../fonts/nunitosans-regular/nunitosans-regular.woff2') format('woff2'),
+    url('../fonts/nunitosans-regular/nunitosans-regular.woff') format('woff'),
+    url('../fonts/nunitosans-regular/nunitosans-regular.ttf') format('truetype'),
+    url('../fonts/nunitosans-regular/nunitosans-regular.svg#Roboto-Bold') format('svg'),
+    url('../fonts/nunitosans-regular/nunitosans-regular.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'nunitosans-italic';
+    src: url('../fonts/nunitosans-italic/nunitosans-italic.eot');
+    src: url('../fonts/nunitosans-italic/nunitosans-italic.woff2') format('woff2'),
+    url('../fonts/nunitosans-italic/nunitosans-italic.woff') format('woff'),
+    url('../fonts/nunitosans-italic/nunitosans-italic.ttf') format('truetype'),
+    url('../fonts/nunitosans-italic/nunitosans-italic.svg#Roboto-Bold') format('svg'),
+    url('../fonts/nunitosans-italic/nunitosans-italic.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
